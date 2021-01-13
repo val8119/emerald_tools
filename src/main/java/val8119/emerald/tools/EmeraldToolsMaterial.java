@@ -20,7 +20,7 @@ public class EmeraldToolsMaterial implements ToolMaterial {
 
     @Override
     public float getAttackDamage() {
-        return 5.5F;
+        return 3.5F;
     }
 
     @Override
