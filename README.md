@@ -1,7 +1,8 @@
 # val8119's Emerald Tools
 
-##Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
-
+ Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
+ 
+ #### TODO:
 - [x] Add Emerald Nugget because why not
 - [x] Add Emerald Tools
   - [x] Add Emerald Pickaxe
