@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emerald",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "emeraldtools:emerald_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald"
+  }
+}

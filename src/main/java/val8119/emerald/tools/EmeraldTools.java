@@ -9,7 +9,7 @@ import net.minecraft.util.Identifier;
 
 public class EmeraldTools implements ModInitializer {
 
-	public static final Item EMERALD_NUGGET = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
+	public static final Item EMERALD_NUGGET = new Item(new Item.Settings().group(ItemGroup.MISC));
 
 	@Override
 	public void onInitialize() {
