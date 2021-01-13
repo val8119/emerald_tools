@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "emeraldtools:item/emerald_nugget"
+    }
+}
