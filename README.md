@@ -1,6 +1,6 @@
 # val8119's Emerald Tools
 
-My first minecraft mod, adds emerald tools and armor.
+##Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
 
 - [x] Add Emerald Nugget because why not
 - [x] Add Emerald Tools
