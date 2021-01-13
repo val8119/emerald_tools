@@ -43,7 +43,7 @@ public class EmeraldArmorMaterial implements ArmorMaterial {
 
     @Override
     public float getToughness() {
-        return 0F;
+        return 2.5F;
     }
 
     @Override
