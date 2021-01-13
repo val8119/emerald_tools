@@ -8,9 +8,9 @@ My first minecraft mod, adds emerald tools and armor.
   - [x] Add Emerald Shovel
   - [x] Add Emerald Axe
   - [x] Add Emerald Hoe
+- [x] Add Emerald Armor
+  - [x] Add Emerald Helmet
+  - [x] Add Emerald Chestplate
+  - [x] Add Emerald Leggings
+  - [x] Add Emerald Boots
 - [ ] Add Emerald Nuggets to villager loot table
-- [ ] Add Emerald Armor
-  - [ ] Add Emerald Helmet
-  - [ ] Add Emerald Chestplate
-  - [ ] Add Emerald Leggings
-  - [ ] Add Emerald Boots
