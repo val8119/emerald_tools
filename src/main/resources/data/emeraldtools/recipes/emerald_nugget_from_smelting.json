@@ -6,6 +6,15 @@
     },
     {
       "item": "emeraldtools:emerald_axe"
+    },
+    {
+      "item": "emeraldtools:emerald_hoe"
+    },
+    {
+      "item": "emeraldtools:emerald_shovel"
+    },
+    {
+      "item": "emeraldtools:emerald_sword"
     }
   ],
   "result": "emeraldtools:emerald_nugget",

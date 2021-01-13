@@ -6,6 +6,7 @@ import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ShovelItem;
+import net.minecraft.item.SwordItem;
 import net.minecraft.item.ToolItem;
 import net.minecraft.util.Identifier;
 
@@ -25,6 +26,9 @@ public class EmeraldTools implements ModInitializer {
 	public static ToolItem EMERALD_HOE = new CustomHoeItem(EmeraldToolsMaterial.INSTANCE, -3, 0F,
 			new Item.Settings().group(ItemGroup.TOOLS));
 
+	public static ToolItem EMERALD_SWORD = new SwordItem(EmeraldToolsMaterial.INSTANCE, 3, -2.4F,
+			new Item.Settings().group(ItemGroup.COMBAT));
+
 	@Override
 	public void onInitialize() {
 
@@ -37,6 +41,8 @@ public class EmeraldTools implements ModInitializer {
 		Registry.register(Registry.ITEM, new Identifier("emeraldtools", "emerald_shovel"), EMERALD_SHOVEL);
 
 		Registry.register(Registry.ITEM, new Identifier("emeraldtools", "emerald_hoe"), EMERALD_HOE);
+
+		Registry.register(Registry.ITEM, new Identifier("emeraldtools", "emerald_sword"), EMERALD_SWORD);
 
 	}
 }
