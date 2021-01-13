@@ -1,4 +1,4 @@
-# emerald_tools
+# val8119's Emerald Tools
 
 My first minecraft mod, adds emerald tools and armor.
 
