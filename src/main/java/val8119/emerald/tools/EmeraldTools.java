@@ -12,7 +12,10 @@ public class EmeraldTools implements ModInitializer {
 
 	public static final Item EMERALD_NUGGET = new Item(new Item.Settings().group(ItemGroup.MISC));
 
-	public static ToolItem EMERALD_PICKAXE = new CustomPickaxeItem(EmeraldToolsMaterial.INSTANCE, 1, -2.8F,
+	public static ToolItem EMERALD_PICKAXE = new CustomPickaxeItem(EmeraldToolsMaterial.INSTANCE, 1, 1.0F,
+			new Item.Settings().group(ItemGroup.TOOLS));
+
+	public static ToolItem EMERALD_AXE = new CustomAxeItem(EmeraldToolsMaterial.INSTANCE, 1F, 1F,
 			new Item.Settings().group(ItemGroup.TOOLS));
 
 	@Override
@@ -21,6 +24,8 @@ public class EmeraldTools implements ModInitializer {
 		Registry.register(Registry.ITEM, new Identifier("emeraldtools", "emerald_nugget"), EMERALD_NUGGET);
 
 		Registry.register(Registry.ITEM, new Identifier("emeraldtools", "emerald_pickaxe"), EMERALD_PICKAXE);
+
+		Registry.register(Registry.ITEM, new Identifier("emeraldtools", "emerald_axe"), EMERALD_AXE);
 
 	}
 }

@@ -3,6 +3,9 @@
   "ingredient": [
     {
       "item": "emeraldtools:emerald_pickaxe"
+    },
+    {
+      "item": "emeraldtools:emerald_axe"
     }
   ],
   "result": "emeraldtools:emerald_nugget",
