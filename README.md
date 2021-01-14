@@ -1,8 +1,9 @@
 # val8119's Emerald Tools
 
- Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
- 
- #### TODO:
+Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
+
+#### TODO:
+
 - [x] Add Emerald Nugget because why not
 - [x] Add Emerald Tools
   - [x] Add Emerald Pickaxe
@@ -14,4 +15,5 @@
   - [x] Add Emerald Chestplate
   - [x] Add Emerald Leggings
   - [x] Add Emerald Boots
+- [ ] Fix item names
 - [ ] Add Emerald Nuggets to villager loot table
