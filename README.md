@@ -16,5 +16,6 @@ Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
   - [x] Add Emerald Leggings
   - [x] Add Emerald Boots
 - [x] Fix item names
-- [ ] Add Emerald Horse Armor
+- [x] Add Emerald Horse Armor
+- [ ] Add Emerald Arrows
 - [ ] Add Emerald Nuggets to villager loot table
