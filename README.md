@@ -5,14 +5,12 @@ Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
 #### Features:
 
 - Emerald Nugget
-
 - Emerald Tools
   - Emerald Pickaxe
   - Emerald Shovel
   - Emerald Sword
   - Emerald Axe
   - Emerald Hoe
-  
 - Emerald Armor
   - Emerald Player Armor
   - Emerald Horse Armor
