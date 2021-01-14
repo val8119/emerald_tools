@@ -15,6 +15,12 @@ Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
   - Emerald Player Armor
   - Emerald Horse Armor
 
+#### Changes
+Made vanilla horse armors craftable again to be consistent with the Emerald Horse Armor.
+The recipe is the same for all armors, only the metal that is used changes.
+
+![Horse armor recipe](http://pictures.picasion.com/pic70/c12f2b49e427bae704869f594583cd0d.gif)
+
 #### TODO:
 
 - [x] Add Emerald Nugget because why not
