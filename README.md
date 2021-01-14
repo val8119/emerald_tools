@@ -31,6 +31,5 @@ Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
   - [x] Add Emerald Boots
 - [x] Fix item names
 - [x] Add Emerald Horse Armor
-- [ ] Add crafting recipes to all horse armors
 - [ ] Add Emerald Arrows
 - [ ] Add Emerald Nuggets to villager loot table
