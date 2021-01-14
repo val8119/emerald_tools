@@ -2,10 +2,24 @@
 
 Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
 
+#### Features:
+
+- Emerald Nugget
+- Emerald Tools:
+  - Emerald Pickaxe
+  - Emerald Sgovel
+  - Emerald Sword
+  - Emerald Axe
+  - Emerald Hoe
+- Emerald Armor:
+  - Emerald Armor Set
+  - Emerald Horse Armor
+
 #### TODO:
 
 - [x] Add Emerald Nugget because why not
 - [x] Add Emerald Tools
+  - [x] Add Emerald Sword
   - [x] Add Emerald Pickaxe
   - [x] Add Emerald Shovel
   - [x] Add Emerald Axe
