@@ -1,6 +1,6 @@
 # val8119's Emerald Tools
 
-Adds emerald tools and armor, as well as an Emerald Nugget, because why not.
+This mod aims to add emerald tools, armor and more without ruining the vanilla feeling.
 
 #### Features:
 
