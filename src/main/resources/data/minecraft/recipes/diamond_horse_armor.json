@@ -10,10 +10,10 @@
       "tag": "minecraft:wool"
     },
     "X": {
-      "item": "minecraft:emerald"
+      "item": "minecraft:diamond"
     }
   },
   "result": {
-    "item": "emeraldtools:emerald_horse_armor"
+    "item": "minecraft:diamond_horse_armor"
   }
 }
