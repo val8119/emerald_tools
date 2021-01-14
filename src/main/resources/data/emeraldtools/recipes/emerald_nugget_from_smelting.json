@@ -15,6 +15,21 @@
     },
     {
       "item": "emeraldtools:emerald_sword"
+    },
+    {
+      "item": "emeraldtools:emerald_helmet"
+    },
+    {
+      "item": "emeraldtools:emerald_chestplate"
+    },
+    {
+      "item": "emeraldtools:emerald_leggings"
+    },
+    {
+      "item": "emeraldtools:emerald_boots"
+    },
+    {
+      "item": "emeraldtools:emerald_horse_armor"
     }
   ],
   "result": "emeraldtools:emerald_nugget",
