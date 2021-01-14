@@ -6,6 +6,7 @@ import net.fabricmc.api.ModInitializer;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.ArmorItem;
 import net.minecraft.item.ArmorMaterial;
+import net.minecraft.item.HorseArmorItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ShovelItem;
@@ -54,6 +55,9 @@ public class EmeraldTools implements ModInitializer {
 	public static final Item EMERALD_BOOTS = new ArmorItem(CustomArmorMaterial, EquipmentSlot.FEET,
 			new Item.Settings().group(ItemGroup.COMBAT));
 
+	public static final Item EMERALD_HORSE_ARMOR = new HorseArmorItem(1, "emerald",
+			new Item.Settings().group(ItemGroup.MISC));
+
 	@Override
 	public void onInitialize() {
 
@@ -82,6 +86,8 @@ public class EmeraldTools implements ModInitializer {
 		Registry.register(Registry.ITEM, new Identifier(modID, "emerald_leggings"), EMERALD_LEGGINGS);
 
 		Registry.register(Registry.ITEM, new Identifier(modID, "emerald_boots"), EMERALD_BOOTS);
+
+		Registry.register(Registry.ITEM, new Identifier(modID, "emerald_horse_armor"), EMERALD_HORSE_ARMOR);
 
 	}
 }
